@@ -25,7 +25,7 @@ I'm a 3rd year Computer Science student actively pursuing my passion for technol
 
 &emsp;
 
-&emsp;
+<br>
 
 ### My Top Projects
 
