@@ -1,6 +1,6 @@
 # Sophia | Juneisdumb 🌙
 
-**`Modern Witch (BSCS | Web Developer | Content Creator)`**
+**`Modern Sorceress (BSCS | Web Developer | Content Creator)`**
 
 I'm a 3rd year Computer Science student actively pursuing my passion for technology and software/web development. I love keeping up with the latest advancements in the industry and continuously improving my skills. Learning and staying on top of new trends excite me, and I'm always eager to take on new challenges.
 
