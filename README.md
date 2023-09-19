@@ -2,7 +2,7 @@
 
 **`Modern Witch (BSCS | Web Developer | Content Creator)`**
 
-I'm a 3rd year Computer Science student actively pursuing my passion for technology and software/web development. I love keeping up with the latest advancements in the industry and continuously improving my skills. Learning and staying on top of new trends excite me, and I'm always eager to take on new challenges.
+I'm a Computer Science student actively pursuing my passion for technology and software/web development. I love keeping up with the latest advancements in the industry and continuously improving my skills. Learning and staying on top of new trends excite me, and I'm always eager to take on new challenges.
 
 <a href="https://www.linkedin.com/in/sophia-granado/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/CHECK%20MY%20LINKEDIN%20PROFILE-1F222E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
