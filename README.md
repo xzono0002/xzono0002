@@ -1,5 +1,7 @@
 # Sophia | Juneisdumb 🌙
 
+![LinkedIn cover - 1](https://github.com/user-attachments/assets/511104ea-5702-49d5-b701-b90650d02769)
+
 **`Modern Witch (Computer Science | College Instructor | Chronically Online )`**
 
 Sophia is a Computer Science graduate actively pursuing her passion for technology and software/web development. She loves keeping up with the latest advancements in the industry and continuously improve her skills. Learning and staying on top of new trends excite her, and is always eager to take on new challenges.
